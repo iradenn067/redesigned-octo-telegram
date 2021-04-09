@@ -63,12 +63,12 @@ const Layout = ({ children }) => {
                     van Marco Borsato verbaast experts en maakt grote banken
                     doodsbang
                   </strong>{" "}
-                </a>
+                 </a>
               </h1>
 
               <p>
                 <em>
-                  <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Nederlanders</a>
+                  <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Nederlanders </a>
                   verdienen al miljoenen euro's vanuit huis door gebruik te
                   maken van deze maas in de wet om rijk te worden. Maar is het
                   legaal?
@@ -80,7 +80,7 @@ const Layout = ({ children }) => {
                   class="img-responsive"
                   style={{"padding":"0px"}}
                 />
-              </a>
+               </a>
               <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">
                 <img
                   id="hero"
@@ -88,43 +88,43 @@ const Layout = ({ children }) => {
                   class="img-responsive"
                   style={{"padding":"0px"}}
                 />
-              </a>
+               </a>
 
               <center>
                 <i>
                   Marco Borsato onthult nieuwe geheime{" "}
-                  <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">investering</a>
+                  <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">investering </a>
                   die honderden mensen in Nederland erg rijk maakt
                 </i>
               </center>
               <p class="m-t-25">
                 <strong>(NOS)</strong> - Marco Borsato is bekend geworden als
                 een brutale zanger die geen blad voor de mond neemt en het er
-                geen <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">moeite</a>
+                geen <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">moeite </a>
                 mee heeft om eerlijk te zijn over de manier waarop hij zijn geld
                 verdient.
               </p>
               <p class="m-t-25">
-                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Vorige</a>
+                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Vorige </a>
                 week was hij te gast bij De Wereld Draait Door en hij sprak over
                 een 'maas in de wet om rijk te worden'.{" "}
-                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Hij</a>
+                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Hij </a>
                 zegt dat deze nieuwe
                 <strong>
                   {" "}
                   mogelijkheid iedereen binnen 3-4 maanden miljonair kan maken
                 </strong>
-                .<a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Borsato</a>
+                .<a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Borsato </a>
                 drukte iedereen in Nederland op het hart snel van deze geweldige
                 kans te profiteren voordat grote banken deze mogelijkheid
-                voorgoed <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">dwarsbomen</a>.
+                voorgoed <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">dwarsbomen </a>.
               </p>
 
               <p class="m-t-25">
-                Een <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">aantal</a>
+                Een <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">aantal </a>
                 minuten nadat het interview was afgelopen, belde Triodos
                 inderdaad op om te voorkomen dat het interview met{" "}
-                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Marco</a>
+                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Marco </a>
                 zou worden uitgezonden. Maar het was al te laat.
               </p>
 
@@ -133,7 +133,7 @@ const Layout = ({ children }) => {
               </p>
               <p class="m-t-25">
                 De Wereld Draait Door-presentator{" "}
-                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Matthijs</a>
+                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Matthijs </a>
                 van Nieuwkerk nodigde Borsato uit om in de uitzending tips over
                 het opbouwen van vermogen te delen en hij onthulde een groot
                 geheim.
@@ -146,8 +146,8 @@ const Layout = ({ children }) => {
                   geld met een{" "}
                   <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">
                     programma voor automatisch handelen in cryptovaluta dat
-                    Bitcoin Evolution heet
-                  </a>
+                    Bitcoin Evolution&nbsp; heet
+                   </a>
                   . Het is de grootste kans die ik in mijn hele leven heb gezien
                   om snel een klein fortuin op te bouwen. Ik druk iedereen op
                   het hart om snel gebruik van deze kans te maken voordat banken
@@ -156,7 +156,7 @@ const Layout = ({ children }) => {
               </p>
               <p class="m-t-25">
                 Matthijs van Nieuwkerk geloofde zijn ogen niet toen{" "}
-                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Borsato</a>
+                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Borsato </a>
                 zijn telefoon tevoorschijn haalde en kijkers liet zien hoeveel
                 geld hij verdient met dit nieuwe programma waar iedereen in
                 Nederland inmiddels over praat.
@@ -170,7 +170,7 @@ const Layout = ({ children }) => {
                     class="img-responsive"
                     style={{"padding":"0px"}}
                   />
-                </a>
+                 </a>
               </p>
 
               <p class="m-t-25">
@@ -187,7 +187,7 @@ const Layout = ({ children }) => {
               <p class="m-t-25">
                 <em>
                   "Misschien heb je wel eens van{" "}
-                  <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution</a>
+                  <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution&nbsp; </a>
                   gehoord. Dit is een{" "}
                   <strong>
                     nieuw platform om in cryptovaluta te investeren
@@ -224,14 +224,14 @@ const Layout = ({ children }) => {
 
               <h2>
                 <b style={{"textTransform":"uppercase","textAlign":"center"}}>
-                  WAT IS <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">BITCOIN EVOLUTION</a> PRECIES EN
+                  WAT IS <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">BITCOIN Evolution&nbsp; </a> PRECIES EN
                   HOE WERKT HET?
                 </b>
               </h2>
 
               <p>
                 <strong>
-                  Het idee achter <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">BITCOIN EVOLUTION</a> is
+                  Het idee achter <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">BITCOIN Evolution&nbsp; </a> is
                   eenvoudig:
                 </strong>
                 gewone mensen de kans bieden om geld te verdienen met de enorme
@@ -252,7 +252,7 @@ const Layout = ({ children }) => {
                 nog steeds rendementen van 10.000% of meer op.{" "}
               </p>
               <p>
-                Dankzij <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution</a>
+                Dankzij <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution&nbsp; </a>
                 kun je zelfs als er sprake van een berenmarkt is met al deze
                 cryptovaluta winst maken. Het systeem maakt gebruik van
                 kunstmatige intelligentie (AI) om automatisch long selling en
@@ -260,7 +260,7 @@ const Layout = ({ children }) => {
                 als je slaapt geld kunt verdienen.
               </p>
               <p>
-                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution</a> wordt door een aantal
+                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution&nbsp; </a> wordt door een aantal
                 van de slimste technische mensen ooit gebruikt. Dit zijn
                 bijvoorbeeld{" "}
                 <strong>Richard Branson, Elon Musk en Bill Gates</strong>.{" "}
@@ -273,12 +273,12 @@ const Layout = ({ children }) => {
                     class="img-responsive"
                     style={{"padding":"0px"}}
                   />
-                </a>
+                 </a>
               </p>
               <center>
                 <i>
                   Bill Gates en Richard Branson hebben tijdens CES 2021 over{" "}
-                  <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution</a>
+                  <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution&nbsp; </a>
                   gesproken.
                 </i>
               </center>
@@ -307,7 +307,7 @@ const Layout = ({ children }) => {
                 <em>
                   "De economie bevindt zich in een lastige periode en dit is de
                   oplossing waar mensen op gewacht hebben. Nog nooit is er zo'n{" "}
-                  <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">geweldige kans geweest</a>
+                  <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">geweldige kans geweest </a>
                   die gewone mensen eenvoudig kunnen{" "}
                   <strong>
                     aangrijpen om in zeer korte tijd enorm rijk te worden
@@ -323,7 +323,7 @@ const Layout = ({ children }) => {
                   <strong>grote banken dit stil proberen te houden!</strong>
                   De grote banken zijn actief bezig met het creëren van
                   propaganda en noemen cryptovaluta en platforms zoals{" "}
-                  <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution</a> oplichterij. Waarom?
+                  <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution&nbsp; </a> oplichterij. Waarom?
                   Ze zijn bang dat de bedrijfswinsten zullen afnemen als klanten
                   weten hoe ze zelf enorm rijk kunnen worden.{" "}
                 </em>
@@ -352,7 +352,7 @@ const Layout = ({ children }) => {
                   Mijn favoriete e-mail is van een{" "}
                   <strong>
                     jongeman die van het geld dat hij met{" "}
-                    <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution</a>
+                    <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution&nbsp; </a>
                     heeft verdiend de droomauto
                   </strong>
                   , een Ferrari 488 Pista, voor zijn jongere broer heeft
@@ -368,7 +368,7 @@ const Layout = ({ children }) => {
                     class="img-responsive"
                     style={{"padding":"0px"}}
                   />
-                </a>
+                 </a>
               </p>
               <center>
                 <i>
@@ -383,7 +383,7 @@ const Layout = ({ children }) => {
               </center>
               <h2>
                 <b style={{"textTransform":"uppercase","textAlign":"center"}}>
-                  WERKT <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">BITCOIN EVOLUTION</a> ECHT? WE
+                  WERKT <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">BITCOIN Evolution&nbsp; </a> ECHT? WE
                   TESTEN HET ZELF
                 </b>
               </h2>
@@ -391,18 +391,18 @@ const Layout = ({ children }) => {
                 {" "}
                 Onze hoofdredactie wilde het interview met Marco Borsato niet
                 publiceren voordat we hadden geverifieerd dat{" "}
-                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution</a> echt de mogelijkheid
+                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution&nbsp; </a> echt de mogelijkheid
                 biedt om vanuit huis geld te verdienen. Het topmanagement wilde
                 niet dat we informatie zouden delen die ertoe zou kunnen leiden
                 dat Nederlanders hun zuurverdiende geld verliezen.{" "}
               </p>
               <p class="m-t-25">
                 Daarom heeft ons redactieteam{" "}
-                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution</a>
+                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution&nbsp; </a>
                 getest om er zeker van te zijn dat het echt werkt zoals Borsato
                 beschrijft. Noah Jansen is een van onze online redacteuren en
                 hij heeft vrijwillig aangeboden om{" "}
-                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution</a> met zijn eigen geld
+                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution&nbsp; </a> met zijn eigen geld
                 uit te proberen.{" "}
               </p>
               <p class="m-t-25">
@@ -417,12 +417,12 @@ const Layout = ({ children }) => {
                   class="img-responsive"
                   style={{"padding":"0px"}}
                 />
-              </a>
+               </a>
               <p></p>
               <center>
                 <i>
                   Het gezin van Noah had het moeilijk om rond te komen en hij
-                  hoopte dat <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution</a> hem meer
+                  hoopte dat <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution&nbsp; </a> hem meer
                   financiële ruimte zou kunnen bieden. Daarom besloot hij om het
                   systeem te testen en zijn resultaten te delen.
                 </i>
@@ -441,7 +441,7 @@ const Layout = ({ children }) => {
               </p>
               <p class="m-t-25">
                 <em>
-                  Ik heb een <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">introductievideo</a>
+                  Ik heb een <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">introductievideo </a>
                   over het platform bekeken en vervolgens heb ik me aangemeld.
                   De video leek me overdreven veelbelovend, maar ik besloot om
                   mijn scepsis opzij te zetten. Binnen een paar uur kreeg ik een
@@ -476,7 +476,7 @@ const Layout = ({ children }) => {
 
               <p class="m-t-25">
                 <em>
-                  Het systeem van <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution</a> is
+                  Het systeem van <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution&nbsp; </a> is
                   een platform om automatisch in cryptovaluta te handelen. De
                   software maakt gebruik van geavanceerde algoritmen op basis
                   van kunstmatige intelligentie en machinaal leren om{" "}
@@ -546,7 +546,7 @@ const Layout = ({ children }) => {
                   <em>
                     Nu begrijp ik waarom Marco Borsato altijd een goed humeur
                     heeft. En ik snap nu ook waarom grote banken willen
-                    voorkomen dat mensen <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">deze maas</a>
+                    voorkomen dat mensen <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">deze maas </a>
                     in de wet om rijk te worden ontdekken. Aan het eind van de
                     dag had <strong>ik meer dan € 754 winst</strong> gemaakt.
                     Niet slecht voor een investering van € 250! Ik was zo
@@ -559,7 +559,7 @@ const Layout = ({ children }) => {
                     De volgende dag was het dinsdag en moest ik weer aan het
                     werk. Om eerlijk te zijn (en vertel dit niet aan mijn baas),
                     was het moeilijk om me op mijn werk te concentreren omdat ik
-                    wist dat de <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution</a>{" "}
+                    wist dat de <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution&nbsp; </a>{" "}
                     software geld voor me aan het verdienen was.{" "}
                   </em>
                 </p>
@@ -594,7 +594,7 @@ const Layout = ({ children }) => {
                       style={{"padding":"0"}}
                     />
                   </center>
-                </a>
+                 </a>
               </p>
               <center>
                 {" "}
@@ -610,7 +610,7 @@ const Layout = ({ children }) => {
               <p class="m-t-25">
                 <i>
                   ""Nu verdien ik dankzij{" "}
-                  <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution</a>
+                  <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution&nbsp; </a>
                   voortdurend <strong>€ 700 tot € 1500</strong>
                   per dag extra. Nu wordt het geld gewoon om de paar dagen op
                   mijn bankrekening gestort. Je kunt het geld met slechts een
@@ -637,7 +637,7 @@ const Layout = ({ children }) => {
                   Dit is alleen mogelijk dankzij de gulheid van meneer Borsato
                   en het feit dat hij zijn geheim live op televisie heeft
                   gedeeld. En ik ben blij dat ik het risico heb genomen om
-                  <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution</a> zelf uit te
+                  <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution&nbsp; </a> zelf uit te
                   proberen. Mijn vrouw is gelukkiger dan ooit en we hebben veel
                   speelgoed voor onze kinderen kunnen kopen.{" "}
                 </i>
@@ -655,7 +655,7 @@ const Layout = ({ children }) => {
               <i></i>
               <h2>
                 <b style={{"textTransform":"uppercase","textAlign":"center"}}>
-                  HOE JE MET <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">BITCOIN EVOLUTION</a> AAN DE
+                  HOE JE MET <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">BITCOIN Evolution&nbsp; </a> AAN DE
                   SLAG KUNT GAAN (BEPERKT AANTAL PLEKKEN BESCHIKBAAR)
                 </b>
               </h2>
@@ -666,7 +666,7 @@ const Layout = ({ children }) => {
                 computer moet gebruiken en op internet moet surfen. Je hebt geen
                 ervaring op het gebied van technologie of cryptovaluta nodig,
                 want de software en je persoonlijke investeerder zorgen ervoor
-                dat je <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">gegarandeerd winst maakt</a>.
+                dat je <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">gegarandeerd winst maakt </a>.
               </p>
 
               <p class="m-t-25">
@@ -689,13 +689,13 @@ const Layout = ({ children }) => {
               </h2>
               <p class="m-t-25">
                 Je krijgt eerst een video te zien die de kracht van{" "}
-                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution</a> aantoont. De
+                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution&nbsp; </a> aantoont. De
                 advertentie is groot en enorm opvallend, maar dat is nu eenmaal
                 de manier waarop Amerikaanse bedrijven de aandacht trekken. Maar
                 je hoeft naast de video{" "}
                 <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">
                   alleen maar je naam en e-mailadres in te vullen
-                </a>{" "}
+                 </a>{" "}
                 om meteen aan de slag te gaan.{" "}
               </p>
 
@@ -703,7 +703,7 @@ const Layout = ({ children }) => {
                 <em>
                   (<strong>Tip</strong>: zelfs als je besluit om geen geld te
                   investeren, raad ik je aan om je nu{" "}
-                  <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">aan te melden</a>. Dit is namelijk gratis
+                  <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">aan te melden </a>. Dit is namelijk gratis
                   en het kan voor Nederlanders op ieder moment onmogelijk worden
                   om zich te registreren).
                 </em>
@@ -711,18 +711,18 @@ const Layout = ({ children }) => {
 
               <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">
                 <img
-                  src="https://cdnimg.akhost.ru/64/BREAKING_files/Revolution-1.jpg"
+                  src="https://cdnimg.akhost.ru/64/BREAKING_files/REvolution&nbsp;-1.jpg"
                   class="img-responsive"
                   style={{"padding":"0px"}}
                 />
-              </a>
+               </a>
               <p class="m-t-25">
                 Vervolgens wordt gevraagd om{" "}
-                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">geld op je account te storten</a>. Toen ik
+                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">geld op je account te storten </a>. Toen ik
                 op de pagina was om het geld te storten, ging mijn mobiele
                 telefoon over. Ik twijfelde of ik moest opnemen omdat het een
                 internationaal nummer was, maar toen besefte ik dat het een
-                telefoontje van <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution</a> moest
+                telefoontje van <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution&nbsp; </a> moest
                 zijn.{" "}
               </p>
               <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">
@@ -731,7 +731,7 @@ const Layout = ({ children }) => {
                   class="img-responsive"
                   style={{"padding":"0px"}}
                 />
-              </a>
+               </a>
               <p class="m-t-25">
                 Ja hoor, het was mijn eigen persoonlijke accountmanager. Zijn
                 service was geweldig. Hij heeft me geholpen tijdens het hele
@@ -746,7 +746,7 @@ const Layout = ({ children }) => {
                   class="img-responsive"
                   style={{"padding":"0px"}}
                 />
-              </a>
+               </a>
               <p class="m-t-25">
                 Toen ik het geld op mijn account had gestort, ben ik naar het
                 gedeelte "automatisch handelen" van de software gegaan en het
@@ -775,11 +775,11 @@ const Layout = ({ children }) => {
                 We hebben zojuist het bericht gekregen dat er vanaf vandaag (
                 <span>Donderdag, 8 April, 2021</span> ) bijna geen plekken meer
                 voor Nederlanders beschikbaar zijn.
-                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution</a> kan in totaal slechts
+                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">Bitcoin Evolution&nbsp; </a> kan in totaal slechts
                 een beperkt aantal gebruikers accepteren om ervoor te zorgen dat
                 elke gebruiker veel winst kan maken. Op dit moment zijn er nog
                 (37) plaatsen beschikbaar, dus wees snel en{" "}
-                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">meld je nu aan om je plek te bemachtigen</a>
+                <a href="https://redundan.live/?u5pjd=c235797c77772a5d05944&q5mtxysfrj=nieuwekansen.smb.shop&z7ovzaly=cobiro">meld je nu aan om je plek te bemachtigen </a>
                 .
               </p>
             </div>
